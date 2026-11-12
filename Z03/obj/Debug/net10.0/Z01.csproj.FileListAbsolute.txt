@@ -1,0 +1,14 @@
+c:\Users\s37534\Repos\PPRG-07\Z03\bin\Debug\net10.0\Z01.exe
+c:\Users\s37534\Repos\PPRG-07\Z03\bin\Debug\net10.0\Z01.deps.json
+c:\Users\s37534\Repos\PPRG-07\Z03\bin\Debug\net10.0\Z01.runtimeconfig.json
+c:\Users\s37534\Repos\PPRG-07\Z03\bin\Debug\net10.0\Z01.dll
+c:\Users\s37534\Repos\PPRG-07\Z03\bin\Debug\net10.0\Z01.pdb
+c:\Users\s37534\Repos\PPRG-07\Z03\obj\Debug\net10.0\Z01.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\s37534\Repos\PPRG-07\Z03\obj\Debug\net10.0\Z01.AssemblyInfoInputs.cache
+c:\Users\s37534\Repos\PPRG-07\Z03\obj\Debug\net10.0\Z01.AssemblyInfo.cs
+c:\Users\s37534\Repos\PPRG-07\Z03\obj\Debug\net10.0\Z01.csproj.CoreCompileInputs.cache
+c:\Users\s37534\Repos\PPRG-07\Z03\obj\Debug\net10.0\Z01.dll
+c:\Users\s37534\Repos\PPRG-07\Z03\obj\Debug\net10.0\refint\Z01.dll
+c:\Users\s37534\Repos\PPRG-07\Z03\obj\Debug\net10.0\Z01.pdb
+c:\Users\s37534\Repos\PPRG-07\Z03\obj\Debug\net10.0\Z01.genruntimeconfig.cache
+c:\Users\s37534\Repos\PPRG-07\Z03\obj\Debug\net10.0\ref\Z01.dll
